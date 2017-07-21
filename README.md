@@ -1,5 +1,7 @@
 # hubot-deploy [![Build Status](https://travis-ci.org/atmos/hubot-deploy.png?branch=master)](https://travis-ci.org/atmos/hubot-deploy)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aureliosaraiva/hubot-deploy.svg)](https://greenkeeper.io/)
+
 [GitHub Flow][1] via [hubot][3]. Chatting with hubot creates [deployments][2] on GitHub and dispatches [Deployment Events][4].
 
 ![](https://f.cloud.github.com/assets/38/2331137/77036ef8-a444-11e3-97f6-68dab6975eeb.jpg)
